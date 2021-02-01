@@ -1,0 +1,12 @@
+{
+  "favorites": [
+    {
+      "Title": "Titanic",
+      "Year": "1996",
+      "imdbID": "tt0115392",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTBhMjUzMDItYTBlZS00OThkLWJmZDQtMjg1YTQ5ZDkxYmFjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+      "id": 1
+    }
+  ]
+}

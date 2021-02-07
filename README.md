@@ -1,5 +1,5 @@
 # v-movie-search-app
-Movie search app is in progress (developing with Vue.js 3, OMDb API, Vue Router, JavaScript, CSS3)
+Movie search app is in progress (made with Vue.js 3, OMDb API, Vue Router, JavaScript, CSS3)
 
 ## Project setup
 ```
